@@ -18,7 +18,8 @@ Code along with your instructor to learn about constructors! Then complete the s
     
     `function draw(){
        car1=new Car(5)
-    
+       car1.display()
+       
     
       }`
  
